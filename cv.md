@@ -1,8 +1,8 @@
-#ALINA PUSHKINA
+# ALINA PUSHKINA
 
-####Junior Developer
+#### Junior Developer
 
-###Contacts:
+### Contacts:
 
   ..* E-mail: pyshkatoro@gmail.com
 
@@ -10,11 +10,11 @@
 
   ..* GitHub: Philosopheya
 
-###About me:
+### About me:
 
-####Hello! I am studying to be a front-end developer. I will try hard to achieve my goals. I hope that in the future I will be able to translate my ideas into reality!
+#### Hello! I am studying to be a front-end developer. I will try hard to achieve my goals. I hope that in the future I will be able to translate my ideas into reality!
 
-###Skills
+### Skills
 
   ..* HTML5
 
@@ -24,7 +24,7 @@
 
   ..* Git
 
-###Code example
+### Code example
 
 function squareDigits(num){
   let string = num.toString();
@@ -34,18 +34,18 @@ function squareDigits(num){
   }
   return Number(res.join(''));
 }
-###Experience
+### Experience
 
-###Graduation
+### Graduation
 
-####NArFU: Faculty of Philosophy
+#### NArFU: Faculty of Philosophy
 
-###Courses
+### Courses
 
   ..* Yandex.Praktikum
 
   ..* HTML-Academy
 
-###English
+### English
 
 ####A2 (Elementary English)
